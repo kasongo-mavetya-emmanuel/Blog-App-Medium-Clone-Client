@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-![alt text|100x100](https://github.com/kasongo-mavetya-emmanuel/Flutter-Blog-App-Medium-Clone-Client/blob/master/screenshots/IMG_20220514_232330.jpg)
+
 <img src="https://github.com/kasongo-mavetya-emmanuel/Flutter-Blog-App-Medium-Clone-Client/blob/master/screenshots/IMG_20220514_232330.jpg" width="100" height="100">
 
 ![alt text|320x271](https://github.com/kasongo-mavetya-emmanuel/Flutter-Blog-App-Medium-Clone-Client/blob/master/screenshots/IMG_20220514_232510.jpg) 
