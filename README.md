@@ -19,14 +19,24 @@ samples, guidance on mobile development, and a full API reference.
 
 
 <img src="https://github.com/kasongo-mavetya-emmanuel/Flutter-Blog-App-Medium-Clone-Client/blob/master/screenshots/IMG_20220514_232330.jpg" width="360" height="640">
+<img src="https://github.com/kasongo-mavetya-emmanuel/Flutter-Blog-App-Medium-Clone-Client/blob/master/screenshots/IMG_20220514_232510.jpg" width="360" height="640">
+<img src="https://github.com/kasongo-mavetya-emmanuel/Flutter-Blog-App-Medium-Clone-Client/blob/master/screenshots/IMG_20220514_232543.jpg" width="360" height="640">
+<img src="https://github.com/kasongo-mavetya-emmanuel/Flutter-Blog-App-Medium-Clone-Client/blob/master/screenshots/IMG_20220514_232652.jpg" width="360" height="640">
+<img src="https://github.com/kasongo-mavetya-emmanuel/Flutter-Blog-App-Medium-Clone-Client/blob/master/screenshots/Screenshot_2022-05-14-22-22-10-40.png" width="360" height="640">
+<img src="https://github.com/kasongo-mavetya-emmanuel/Flutter-Blog-App-Medium-Clone-Client/blob/master/screenshots/Screenshot_2022-05-14-22-22-18-97.png" width="360" height="640">
+<img src="https://github.com/kasongo-mavetya-emmanuel/Flutter-Blog-App-Medium-Clone-Client/blob/master/screenshots/Screenshot_2022-05-14-22-22-26-70.png" width="360" height="640">
+<img src="https://github.com/kasongo-mavetya-emmanuel/Flutter-Blog-App-Medium-Clone-Client/blob/master/screenshots/Screenshot_2022-05-14-22-23-44-17.png" width="360" height="640">
+<img src="https://github.com/kasongo-mavetya-emmanuel/Flutter-Blog-App-Medium-Clone-Client/blob/master/screenshots/Screenshot_2022-05-14-22-23-54-61.png" width="360" height="640">
+<img src="https://github.com/kasongo-mavetya-emmanuel/Flutter-Blog-App-Medium-Clone-Client/blob/master/Screenshot_2022-05-14-22-23-59-89.png" width="360" height="640">
+<img src="https://github.com/kasongo-mavetya-emmanuel/Flutter-Blog-App-Medium-Clone-Client/blob/master/screenshots/Screenshot_2022-05-14-22-24-09-90.png" width="360" height="640">
 
-![alt text|320x271](https://github.com/kasongo-mavetya-emmanuel/Flutter-Blog-App-Medium-Clone-Client/blob/master/screenshots/IMG_20220514_232510.jpg) 
-![alt text|320x271](https://github.com/kasongo-mavetya-emmanuel/Flutter-Blog-App-Medium-Clone-Client/blob/master/screenshots/IMG_20220514_232543.jpg) 
-![alt text|320x271](https://github.com/kasongo-mavetya-emmanuel/Flutter-Blog-App-Medium-Clone-Client/blob/master/screenshots/IMG_20220514_232652.jpg) 
-![alt text|320x271](https://github.com/kasongo-mavetya-emmanuel/Flutter-Blog-App-Medium-Clone-Client/blob/master/screenshots/Screenshot_2022-05-14-22-22-10-40.png) ![alt text|320x271](https://github.com/kasongo-mavetya-emmanuel/Flutter-Blog-App-Medium-Clone-Client/blob/master/screenshots/Screenshot_2022-05-14-22-22-18-97.png) ![alt text|320x271](https://github.com/kasongo-mavetya-emmanuel/Flutter-Blog-App-Medium-Clone-Client/blob/master/screenshots/Screenshot_2022-05-14-22-22-26-70.png) 
-![alt text|320x271](https://github.com/kasongo-mavetya-emmanuel/Flutter-Blog-App-Medium-Clone-Client/blob/master/screenshots/Screenshot_2022-05-14-22-23-44-17.png) ![alt text|320x271](https://github.com/kasongo-mavetya-emmanuel/Flutter-Blog-App-Medium-Clone-Client/blob/master/screenshots/Screenshot_2022-05-14-22-23-54-61.png) 
-![alt text|320x271](https://github.com/kasongo-mavetya-emmanuel/Flutter-Blog-App-Medium-Clone-Client/blob/master/Screenshot_2022-05-14-22-23-59-89.png) 
-![alt text|320x271](https://github.com/kasongo-mavetya-emmanuel/Flutter-Blog-App-Medium-Clone-Client/blob/master/screenshots/Screenshot_2022-05-14-22-24-09-90.png)
+
+
+
+
+
+
+
 
 
 
