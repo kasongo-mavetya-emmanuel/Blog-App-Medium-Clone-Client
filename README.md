@@ -31,7 +31,10 @@ samples, guidance on mobile development, and a full API reference.
 ----------------
 <img src="https://github.com/kasongo-mavetya-emmanuel/Flutter-Blog-App-Medium-Clone-Client/blob/master/screenshots/Screenshot_2022-05-14-22-23-54-61.png" width="360" height="640">  <img src="https://github.com/kasongo-mavetya-emmanuel/Flutter-Blog-App-Medium-Clone-Client/blob/master/screenshots/Screenshot_2022-05-14-22-23-59-89.png" width="360" height="640">  
 ----------------
-<img src="https://github.com/kasongo-mavetya-emmanuel/Flutter-Blog-App-Medium-Clone-Client/blob/master/screenshots/Screenshot_2022-05-14-22-24-09-90.png" width="360" height="640">
+<img src="https://github.com/kasongo-mavetya-emmanuel/Flutter-Blog-App-Medium-Clone-Client/blob/master/screenshots/Screenshot_2022-05-14-22-24-09-90.png" width="360" height="640">  <img src="https://github.com/kasongo-mavetya-emmanuel/Flutter-Blog-App-Medium-Clone-Client/blob/master/screenshots/Screenshot_2022-05-15-11-26-41-65[1].png" width="360" height="640">
+-----------------
+<img src="https://github.com/kasongo-mavetya-emmanuel/Flutter-Blog-App-Medium-Clone-Client/blob/master/screenshots/IMG_20220515_222514[1].jpg" width="360" height="640">
+
 
 
 
